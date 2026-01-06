@@ -1,2 +1,2 @@
-# Brainwave_Matrix_Solutions
+# ATM
 ATM functionality Using java
